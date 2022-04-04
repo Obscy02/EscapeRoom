@@ -73,6 +73,7 @@
             float: left;
             padding: 0px 20px;
         }
+        
         .navigation a li{
             display: table-cell;
             vertical-align: middle;
