@@ -278,6 +278,7 @@
             clickCount += 1;
         }
 
+
         //This button will go back a page for the user
         function function9() {
 
